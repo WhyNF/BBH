@@ -24,6 +24,9 @@ DO NOT disturb me - WHYNF
 ▖  ▖  ▖▖  ▖▖  ▖ ▖  ▄▖  
 ▌▞▖▌  ▙▌  ▌▌  ▛▖▌  ▙▖▄▖
 ▛ ▝▌  ▌▌  ▐   ▌▝▌  ▌   
+
+WELCOME TO YOUR FEAR
+SAY GOODBYE TO YOUR ACCOUNT !
                        
 EOF
 echo -e "\033[0m"
