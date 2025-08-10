@@ -30,8 +30,8 @@ https://bento.me/lendirxhut4d
 
 https://api.whatsapp.com/send?phone={nomor}"""
 
-JUMLAH_KIRIM = 15
-DELAY = 2
+JUMLAH_KIRIM = 35
+DELAY = 1
 
 server = smtplib.SMTP_SSL('smtp.gmail.com', 465)
 server.login(EMAIL, PASSWORD)
