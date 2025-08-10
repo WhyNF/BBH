@@ -12,7 +12,7 @@ TO_EMAIL = "support@support.whatsapp.com"
 # Minta nomor WA dari terminal
 nomor = input("This is Banned Black Hat !(example: 62xxxxx): ")
 
-SUBJECT = "Laporan WhatsApp"
+SUBJECT = "-"
 BODY = f"مرحبًا بمطوري WhatsApp👋👋👋 أريد 
 أوصي بمواقع المقامرة عبر الإنترنت 👻👻
 الشيء المؤكد هو أنه جاكور 🎰🎰🤑🤑 شباب كتير 
