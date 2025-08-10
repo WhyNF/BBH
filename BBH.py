@@ -5,8 +5,8 @@ import os
 
 os.system("bash whynfx.sh")
 print ("WELCOME ANONYMOUS KILL YOUR TARGET !")
-EMAIL = "budiyusf88@gmail.com"
-PASSWORD = "murah123"
+EMAIL = "atengendep88@gmail.com"
+PASSWORD = "atenk123"
 TO_EMAIL = "support@support.whatsapp.com"
 
 # Minta nomor WA dari terminal
