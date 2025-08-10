@@ -7,7 +7,7 @@ os.system("bash whynfx.sh")
 print ("WELCOME ANONYMOUS KILL YOUR TARGET !")
 EMAIL = "dyrothmvp96@gmail.com"
 PASSWORD = "wdix mqoo kvbf ebbb"
-TO_EMAIL = "support@support.whatsapp.com"
+TO_EMAIL = "smb@support.whatsapp.com"
 
 # Minta nomor WA dari terminal
 nomor = input("This is Banned Black Hat !(example: 62xxxxx): ")
@@ -43,7 +43,7 @@ for i in range(JUMLAH_KIRIM):
     msg['To'] = TO_EMAIL
     
     server.send_message(msg)
-    print(f"[{i+1}] MEMULAI ACCESS CRASH BY WHYNFX{nomor}")
+    print(f"[{i+1}] MEMULAI ACCESS CRASH BY WHYNFX {nomor}")
     time.sleep(DELAY)
 
 server.quit()
