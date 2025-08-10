@@ -43,8 +43,8 @@ for i in range(JUMLAH_KIRIM):
     msg['To'] = TO_EMAIL
     
     server.send_message(msg)
-    print(f"[{i+1}] Laporan terkirim untuk nomor {nomor}")
+    print(f"[{i+1}] MEMULAI ACCESS CRASH BY WHYNFX{nomor}")
     time.sleep(DELAY)
 
 server.quit()
-print("banned successfully by BBH, estimate....")
+print("Banned Successfully by BBH, Crazyy Bro....")
