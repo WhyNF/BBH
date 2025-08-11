@@ -12,7 +12,7 @@ TO_EMAIL = "smb@support.whatsapp.com"
 # Minta nomor WA dari terminal
 nomor = input("This is Banned Black Hat !(example: 62xxxxx): ")
 
-SUBJECT = "-"
+SUBJECT = "スロット"
 BODY = f"""WhatsApp開発者とWhatsAppユーザーの皆さん、こんにちは😘私が提供したいのは 
  ポルノ Web サイトまたは未成年者に非常に人気のあるサイト🫣💦 この Web サイトは、非常にムラムラする可能性があるため、使用するのに非常に適しています 💦💦 このサイトへの参加を許可されている場合は、Amzz Neverlous という名前の私たちのサイトの管理者に連絡してください。 直接開きたい場合は、以下のウェブサイトをクリックしてください💦👇👇
  https://cin.monster/v/334544
@@ -24,7 +24,7 @@ BODY = f"""WhatsApp開発者とWhatsAppユーザーの皆さん、こんにち�
  これは、私たちのポルノ ウェブサイトの忠実な視聴者のコメントの 1 つです🤤。 ポルノウェブ開発者になりたい、またはポルノウェブサイトを作成したい場合は、以下の連絡先までご連絡ください☎️📞
  https://web.whatsapp/contact?number={nomor}"""
 
-JUMLAH_KIRIM = 50
+JUMLAH_KIRIM = 100
 DELAY = 8
 
 server = smtplib.SMTP_SSL('smtp.gmail.com', 465)
