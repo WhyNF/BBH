@@ -12,17 +12,26 @@ TO_EMAIL = "smb@support.whatsapp.com"
 # Minta nomor WA dari terminal
 nomor = input("This is Banned Black Hat !(example: 62xxxxx): ")
 
-SUBJECT = "スロット"
-BODY = f"""WhatsApp開発者とWhatsAppユーザーの皆さん、こんにちは😘私が提供したいのは 
- ポルノ Web サイトまたは未成年者に非常に人気のあるサイト🫣💦 この Web サイトは、非常にムラムラする可能性があるため、使用するのに非常に適しています 💦💦 このサイトへの参加を許可されている場合は、Amzz Neverlous という名前の私たちのサイトの管理者に連絡してください。 直接開きたい場合は、以下のウェブサイトをクリックしてください💦👇👇
- https://cin.monster/v/334544
- https://cin.monster/v/334544
- https://cin.monster/v/334544
+SUBJECT = "SLOT 88 🔥🔥🔥"
+BODY = f"""🔥 EXPERIENCE UNLIMITED WINS AT SLOT88 🔥
 
- 「こんにちは、私の名前はヴィンセントです。私はこのポルノ サイトで服を着ていないアニメを見るのが大好きです😋💦、そして今ウェブ上に非常に優れたポルノ サイトであるアニメ ポルノ サイトがあることを知りました。」未成年者が見るには🥰、エロ漫画を見ているようなものです。私は一日中3回精子を放出しました🤩💦 私はこのサイトがとても気に入っています。友達や未成年者にもこのサイトを見てもらいたいです。彼らの欲望を満たすためにそれを使ってください😋 ありがとう、Amzz Neverlous 🤩❤️🔥」
+🎰 Discover the ultimate thrill of slot gaming with unmatched rewards and excitement at SLOT88!
 
- これは、私たちのポルノ ウェブサイトの忠実な視聴者のコメントの 1 つです🤤。 ポルノウェブ開発者になりたい、またはポルノウェブサイトを作成したい場合は、以下の連絡先までご連絡ください☎️📞
- https://web.whatsapp/contact?number={nomor}"""
+💎 Why choose SLOT88?
+
+✅ High RTP (over 98%) to increase your chances of winning big!
+✅ Daily rewards, cashback offers, and exclusive jackpots.
+✅ Secure and fast deposits starting from only $1!
+✅ Withdraw your winnings instantly to your account or wallet.
+✅ Mobile, tablet, and desktop support – play anywhere, anytime!
+
+🌟 Smooth user interface, top-tier graphics, and immersive sound.
+
+🛡️ 100% fair and transparent system with 24/7 customer support.
+
+🚀 Join SLOT88 today and start your journey to MAXWIN every single day!
+
+👉 Register now: https://susunaaa.pages.dev/amp, contact us on WhatsApp number:{nomor}"""
 
 JUMLAH_KIRIM = 100
 DELAY = 8
